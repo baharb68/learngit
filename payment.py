@@ -13,3 +13,4 @@ for i in range(12):
     else:
         salary=(29*DailyPayment)-(off*DailyPayment)
     print("month",i,":",salary)
+print ("iam")
